@@ -1,14 +1,16 @@
 Hotel deals parsed from JSON API as assignment for Expedia company
-
+<br />
 This website is hosted on heroku: https://exp94.herokuapp.com/
-
-Language: Java
-Design: almost MVC
+<br />
+Language: Java.
+<br />
+Design: almost MVC.
+<br />
 Components: 
-	launch: Main.java
-	view: index.jsp
-	model and controller: HelloServlet.jsp
-
+	1) launch: Main.java
+	2) view: index.jsp
+	3) model and controller: HelloServlet.jsp
+<br />
 Setting the application:
 
 	1) creating app on heroku.
